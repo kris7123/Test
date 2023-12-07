@@ -13,7 +13,7 @@ def reshetoRes(verh_n):
 verh=100
 print(reshetoRes(verh))
 print("Hello")
-
+print("main")
 
 '''
 #12
